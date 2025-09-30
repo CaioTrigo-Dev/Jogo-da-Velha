@@ -51,13 +51,6 @@ check_winner(): Verifica se houve vitória ou empate.
 
 check_position_player_one() / check_position_player_two(): Validam as jogadas de cada jogador.
 
-💡 Exemplo de Jogo
-Resultado atual:
-    |   |
--------------
-    |   |
--------------
-    |   |
 
 Instruções: Escolha uma posição para jogar. Exemplo: top-L, mid-M, low-R
 Jogador 1 é X  |  Jogador 2 é O
